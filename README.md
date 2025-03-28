@@ -67,10 +67,7 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 ## Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+ganesh@gtech.com  
 
-The following references were attached as context:
-
-The user is currently located in a GitHub repository, but possibly a sub-directory of that GitHub repository. Their current URL can tell you specifically, but included is some information about the languages and repository itself.
-repo: GTTech2305/OTT-Media
 repo ID: 934855033
 The description for this repo is `OTT Media `.
